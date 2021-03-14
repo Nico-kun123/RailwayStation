@@ -17,7 +17,7 @@ public:
 
 	explicit Dialog_InfoUser(const User &user, QWidget *parent = nullptr);
 	~Dialog_InfoUser();
-
+ 
 private:
 	Ui::Dialog_InfoUser *mUi;
 };
