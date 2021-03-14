@@ -1,6 +1,6 @@
 #ifndef DIALOG_ADDUSER_H
 #define DIALOG_ADDUSER_H
-
+ 
 #include <QDialog>
 #include "user.h"
 
