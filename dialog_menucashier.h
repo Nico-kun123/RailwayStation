@@ -7,7 +7,7 @@
 namespace Ui {
 class Dialog_MenuCashier;
 }
-
+ 
 // Окно меню кассира (покупка/сдача билетов, получение каких-либо справок)
 class Dialog_MenuCashier : public QDialog
 {
