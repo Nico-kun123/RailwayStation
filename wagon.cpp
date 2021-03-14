@@ -1,5 +1,5 @@
 #include "wagon.h"
-
+ 
 Wagon::Wagon()
 {
 	m_price = 0;
