@@ -1,5 +1,5 @@
 #include "mainwidget.h"
- 
+
 #include "config.h"
 #include "window_registration.h"
 #include "window_authorization.h"
