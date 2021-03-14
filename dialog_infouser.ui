@@ -27,7 +27,7 @@
      <property name="alignment">
       <set>Qt::AlignCenter</set>
      </property>
-    </widget>
+    </widget> 
    </item>
    <item>
     <spacer name="verticalSpacer_2">
