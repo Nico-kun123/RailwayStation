@@ -1,6 +1,6 @@
 #include "window_registration.h"
 #include "ui_window_registration.h"
-
+ 
 #include "config.h"
 #include "user.h"
 
