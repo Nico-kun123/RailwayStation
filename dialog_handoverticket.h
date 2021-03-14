@@ -1,6 +1,6 @@
 #ifndef DIALOG_HANDOVERTICKET_H
 #define DIALOG_HANDOVERTICKET_H
-
+ 
 #include <QDialog>
 #include "wagon.h"
 
