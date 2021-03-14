@@ -1,6 +1,6 @@
 #ifndef DIALOG_SHOWTICKETS_H
 #define DIALOG_SHOWTICKETS_H
-
+ 
 #include <QDialog>
 class Train;
 
