@@ -13,7 +13,7 @@ Dialog_ControlWagons::Dialog_ControlWagons(QList<Wagon> listWagons, QWidget *par
 {
 	mUi->setupUi(this);
 	mUi->tableWagons->horizontalHeader()->setSectionResizeMode(QHeaderView::ResizeMode::ResizeToContents);
-
+ 
 	int row = 0;
 	foreach (const Wagon &wagon, m_listWagons) {
 		// Создаем элементы таблицы с нужным текстом
