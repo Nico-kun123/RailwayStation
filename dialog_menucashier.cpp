@@ -1,6 +1,6 @@
 #include "dialog_menucashier.h"
 #include "ui_dialog_menucashier.h"
-
+ 
 #include "config.h"
 #include "dialog_buyticket.h"
 #include "dialog_handoverticket.h"
