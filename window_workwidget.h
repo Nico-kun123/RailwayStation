@@ -1,6 +1,6 @@
 #ifndef WINDOW_WORKWIDGET_H
 #define WINDOW_WORKWIDGET_H
-
+ 
 #include <QWidget>
 #include "train.h"
 #include "user.h"
