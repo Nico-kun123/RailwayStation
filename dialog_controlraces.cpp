@@ -1,6 +1,6 @@
 #include "dialog_controlraces.h"
 #include "ui_dialog_controlraces.h"
-
+ 
 #include "config.h"
 #include "dialog_addrace.h"
 
