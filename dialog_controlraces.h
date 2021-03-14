@@ -1,6 +1,6 @@
 #ifndef DIALOG_CONTROLRACES_H
 #define DIALOG_CONTROLRACES_H
-
+ 
 #include <QDialog>
 #include "train.h"
 
