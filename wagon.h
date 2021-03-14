@@ -1,6 +1,6 @@
 #ifndef WAGON_H
 #define WAGON_H
-
+ 
 #include <QString>
 #include <QDataStream>
 #include <QTextStream>
