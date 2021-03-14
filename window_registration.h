@@ -1,6 +1,6 @@
 #ifndef WINDOW_REGISTRATION_H
 #define WINDOW_REGISTRATION_H
-
+ 
 #include <QWidget>
 
 namespace Ui {
