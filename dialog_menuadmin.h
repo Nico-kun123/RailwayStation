@@ -1,6 +1,6 @@
 #ifndef DIALOG_MENUADMIN_H
 #define DIALOG_MENUADMIN_H
-
+ 
 #include <QDialog>
 
 namespace Ui {
