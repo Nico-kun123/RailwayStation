@@ -1,5 +1,5 @@
 #ifndef TRAIN_H
-#define TRAIN_H
+#define TRAIN_H 
 
 #include "wagon.h"
 #include <QString>
