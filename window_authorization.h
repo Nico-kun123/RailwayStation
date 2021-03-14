@@ -1,6 +1,6 @@
 #ifndef WINDOW_AUTHORIZATION_H
 #define WINDOW_AUTHORIZATION_H
-
+ 
 #include <QWidget>
 class User;
 
