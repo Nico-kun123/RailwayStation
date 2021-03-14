@@ -3,7 +3,7 @@
 
 #include <QDialog>
 class Wagon;
-
+ 
 namespace Ui {
 class Dialog_AddWagon;
 }
