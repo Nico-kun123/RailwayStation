@@ -1,5 +1,5 @@
 #include "train.h"
-
+ 
 Train::Train()
 {
 	m_number = 0;
