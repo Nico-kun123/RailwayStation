@@ -1,6 +1,6 @@
 #include "dialog_buyticket.h"
 #include "ui_dialog_buyticket.h"
-
+ 
 #include "ticket.h"
 #include "train.h"
 
