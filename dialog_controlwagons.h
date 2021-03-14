@@ -1,6 +1,6 @@
 #ifndef DIALOG_CONTROLWAGONS_H
 #define DIALOG_CONTROLWAGONS_H
-
+ 
 #include <QDialog>
 class Wagon;
 
