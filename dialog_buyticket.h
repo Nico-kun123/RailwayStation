@@ -5,7 +5,7 @@
 #include "wagon.h"
 class Ticket;
 class Train;
-
+ 
 namespace Ui {
 class Dialog_BuyTicket;
 }
