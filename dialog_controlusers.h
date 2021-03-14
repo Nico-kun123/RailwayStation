@@ -24,7 +24,7 @@ private slots:
 	void on_buttonDeleteUser_clicked();
 	// Слот для добавления пользователя
 	void on_buttonAddUser_clicked();
-
+ 
 	void on_lineFind_textChanged(const QString &arg1);
 
 private:
