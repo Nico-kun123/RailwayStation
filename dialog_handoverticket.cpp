@@ -2,7 +2,7 @@
 #include "ui_dialog_handoverticket.h"
 
 #include <QInputDialog>
-
+ 
 #include <QDebug>
 
 Dialog_HandOverTicket::Dialog_HandOverTicket(const QList<Wagon> &listWagons, QWidget *parent) :
