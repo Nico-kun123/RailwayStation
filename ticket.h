@@ -30,7 +30,7 @@ public:
 
 	QString typeWagon() const;
 	void setTypeWagon(const QString &typeWagon);
-
+ 
 	QDate date() const;
 	void setDate(const QDate &date);
 
