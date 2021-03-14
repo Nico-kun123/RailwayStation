@@ -44,7 +44,7 @@ Dialog_ControlRaces::~Dialog_ControlRaces()
 {
 	delete mUi;
 }
-
+ 
 void Dialog_ControlRaces::on_buttonAddRace_clicked()
 {
 	// Создаем объект поезда
