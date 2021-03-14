@@ -7,7 +7,7 @@ Dialog_AddUser::Dialog_AddUser(QWidget *parent) :
 {
 	mUi->setupUi(this);
 }
-
+ 
 Dialog_AddUser::~Dialog_AddUser()
 {
 	delete mUi;
