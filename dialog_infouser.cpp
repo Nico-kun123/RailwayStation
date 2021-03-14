@@ -1,6 +1,6 @@
 #include "dialog_infouser.h"
 #include "ui_dialog_infouser.h"
-
+ 
 #include "user.h"
 
 Dialog_InfoUser::Dialog_InfoUser(const User &user, QWidget *parent) :
