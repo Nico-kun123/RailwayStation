@@ -1,6 +1,6 @@
 #include "window_workwidget.h"
 #include "ui_window_workwidget.h"
-
+ 
 #include "config.h"
 #include "dialog_infouser.h"
 #include "dialog_menuadmin.h"
