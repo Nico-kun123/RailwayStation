@@ -58,7 +58,7 @@ User *Window_Authorization::checkUser(const QString &login, const QString &passw
 				return user;
 			}
 		}
-
+ 
 		// Если пользователь в цикле не был найден, возвращаем нулевой указатель.
 		return user;
 	}
