@@ -4,7 +4,7 @@
 #include "config.h"
 #include "train.h"
 #include "dialog_controlwagons.h"
-
+ 
 Dialog_AddRace::Dialog_AddRace(Train *train, const QList<Train> &listTrains, Type type, QWidget *parent) :
 	QDialog(parent),
 	mUi(new Ui::Dialog_AddRace),
