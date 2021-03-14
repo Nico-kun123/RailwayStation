@@ -1,6 +1,6 @@
 #ifndef DIALOG_ADDRACE_H
 #define DIALOG_ADDRACE_H
- 
+
 #include <QDialog>
 class Train;
 class Dialog_ControlWagons;
