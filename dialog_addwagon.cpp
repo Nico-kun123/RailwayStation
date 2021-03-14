@@ -2,7 +2,7 @@
 #include "ui_dialog_addwagon.h"
 
 #include "wagon.h"
-
+ 
 Dialog_AddWagon::Dialog_AddWagon(Wagon *wagon, const QList<Wagon> &listWagons, Type type, QWidget *parent) :
 	QDialog(parent),
 	mUi(new Ui::Dialog_AddWagon),
